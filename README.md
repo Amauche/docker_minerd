@@ -27,6 +27,6 @@ Easy:
 
 If you don't know what to do with your coins:
 
-**ETH:** 0x04aab93d7d1f4e313b4704339a9f42cbd54406f1
-**XMR:** 46svDDc2ZXTgv2vY1THHuu7CjVsNsFMXDfCyAgcxW5Zad8SJRLfXT6cZErScz7HicwD7SECJS9RQuW1wZAGd7NQrTfgCrtZ
+**ETH:** 0x04aab93d7d1f4e313b4704339a9f42cbd54406f1  
+**XMR:** 46svDDc2ZXTgv2vY1THHuu7CjVsNsFMXDfCyAgcxW5Zad8SJRLfXT6cZErScz7HicwD7SECJS9RQuW1wZAGd7NQrTfgCrtZ  
 **BTC:** 1MmeZw638nycmveMNKbCxLsryNEretspLk
